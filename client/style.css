@@ -25,7 +25,8 @@ main #home {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 0 30vw;
+  padding: 0 20%;
+  text-align: center;
 }
 
 main #home h1 {

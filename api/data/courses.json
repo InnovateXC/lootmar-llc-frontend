@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Cloud Computing: Architecting Scalable Systems",
+        "price": 70,
+        "image_url": "https://www.ingenious.co.uk/wp-content/uploads/2023/08/What-is-Cloud-Computing-and-How-Can-it-Benefit-Our-Company-1024x512.jpeg",
+        "desc": "Learn the ins and outs of cloud computing and how to design scalable systems using popular platforms like AWS, Azure, and Google Cloud."
+    },
+    {
+        "id": 2,
+        "name": "Data Science for Non-Mathematicians: An Accessible Introduction",
+        "price": 65,
+        "image_url": "https://www.gyansetu.in/wp-content/uploads/2024/02/FUqHEVVUsAAbZB0-1024x580-1.jpg",
+        "desc": "Dive into the world of data science without the need for advanced mathematical knowledge. This course will cover the basics of data analysis, machine learning, and visualization using popular tools like Python and R."
+    },
+    {
+        "id": 3,
+        "name": "Cybersecurity Fundamentals: Protecting Your Networks and Data",
+        "price": 80,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzgLSbmgYxJMTJcUwssl1hmgjJjLsURQsWjg&s",
+        "desc": "Learn the essentials of cybersecurity and how to protect your networks and data from threats. This course will cover topics like network security, encryption, and ethical hacking."
+    },
+    {
+        "id": 4,
+        "name": "Front-End Web Development: Building Beautiful and Responsive Websites",
+        "price": 55,
+        "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201111215809/How-to-Become-a-Front-End-Developer-in-2020.png",
+        "desc": "Learn the basics of front-end web development and how to build beautiful and responsive websites using HTML, CSS, and JavaScript."
+    },
+    {
+        "id": 5,
+        "name": "Back-End Web Development: Building Dynamic Websites with APIs and Databases",
+        "price": 70,
+        "image_url": "https://plopdo.com/wp-content/uploads/2021/10/What-is-back-end-development-2.jpg",
+        "desc": "Dive into the world of back-end web development and learn how to build dynamic websites using popular frameworks like Node.js, Django, and Ruby on Rails. This course will also cover APIs and databases."
+    },
+    {
+        "id": 6,
+        "name": "Machine Learning for Non-Engineers: An Introduction to AI",
+        "image_url": "https://datascientest.com/en/files/2021/01/Machine-learning-def-.png",
+        "price": 65,
+        "desc": "Get started with machine learning and artificial intelligence without the need for advanced programming knowledge. This course will cover the basics of machine learning algorithms, data analysis, and model training."
+    },
+    {
+        "id": 7,
+        "name": "DevOps for Non-Experts: Streamlining Your Software Delivery Pipeline",
+        "image_url": "https://wac-cdn.atlassian.com/dam/jcr:1f9893d0-a300-4afd-95b3-3ddb79403d62/ADO-DevOps-Tool_1200x675@2x.png?cdnVersion=2267",
+        "price": 70,
+        "desc": "Learn the essentials of DevOps and how to streamline your software delivery pipeline using popular tools like Jenkins, Docker, and Kubernetes."
+    },
+    {
+        "id": 8,
+        "name": "Mobile App Development: Building Apps for iOS and Android",
+        "image_url": "https://api.reliasoftware.com/uploads/the_complete_guide_to_mobile_app_development_2021_ded2abd1b1.png",
+        "price": 80,
+        "desc": "Dive into the world of mobile app development and learn how to build apps for iOS and Android using popular frameworks like React Native and Flutter."
+    },
+    {
+        "id": 9,
+        "name": "User Experience Design: Creating Intuitive and User-Friendly Interfaces",
+        "price": 60,
+        "image_url": "https://www.uxdesigninstitute.com/blog/wp-content/uploads/2022/07/156_ux_definition_illustration_blog.png",
+        "desc": "Learn the essentials of user experience design and how to create intuitive and user-friendly interfaces for websites and apps."
+    },
+    {
+        "id": 10,
+        "name": "Game Development: Building Fun and Interactive Games",
+        "price": 90,
+        "image_url": "https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/102022_Game-development_Break-into-Game-Development_Thumbnail-.png",
+        "desc": "Dive into the world of game development and learn how to build fun and interactive games using popular engines like Unity and Unreal Engine. This course will cover topics like game physics, animation, and AI."
+    }
+]
